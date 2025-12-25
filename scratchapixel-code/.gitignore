@@ -1,0 +1,5 @@
+*.exe
+*.ppm
+*.pbm
+*.pdb
+fourier-transform/
